@@ -1,6 +1,9 @@
 Stormpath ID Site
 ========
 
+*ATTENTION ASYMMETRIK / MEDSTAR:
+For Stormpath Config, use the debug-asy branch of this repository.*
+
 Stormpath ID Site is a set of hosted and pre-built user interface screens that
 take care of common identity functions for your applications — login,
 registration, and password reset. ID Site can be accessed via your own custom
